@@ -1,4 +1,4 @@
-[[MasterHead](content://media/external/downloads/1000074533)]
+[[](content://media/external/downloads/1000074533)]
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate frontend developer from India<cg/h3>
 <img align="right" alt="Coming" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQiSg92qCF6KiJn7W4-TNhZvWBvj0GV4nLzVxxus-P5Q&s">
